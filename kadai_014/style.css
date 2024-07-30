@@ -25,6 +25,6 @@ body {
   color: rgb(255, 192, 203);
 }
 
-div > p {
+#basic {
   font-weight: bold;
 }
