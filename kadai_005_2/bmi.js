@@ -1,4 +1,5 @@
 const weight = 68;
-const heigh = 1.7;
+const height = 1.7;
+const bmi = weight/(height*height);
+console.log(bmi);
 
-console.log(weight/(heigh*heigh));
